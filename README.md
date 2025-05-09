@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsvrajpatel&label=Profile%20views&color=0e75b6&style=flat" alt="itsvrajpatel" /> </p>
 
-- 🔭 I’m currently working on **MealMonkey (Application)**
+- 🔭 I’m currently working on **Linkroo.ai**
 
 - 🌱 I’m currently learning **Figma & Flutter**
 
